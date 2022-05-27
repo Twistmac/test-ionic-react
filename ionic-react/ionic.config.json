@@ -1,0 +1,7 @@
+{
+  "name": "ClientNote",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

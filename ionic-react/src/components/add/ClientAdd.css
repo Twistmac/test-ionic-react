@@ -1,0 +1,19 @@
+.margin-item {
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+    --border-width: 1px;
+    --border-color: #198ee3;
+    --border-radius: 5px;
+    --highlight-background: unset;
+}
+.input-size {
+    font-size: 12px;
+    --placeholder-opacity: 0.2;
+    --highlight-background: #acacac;
+}
+.btn-save {
+    margin-top: 20px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
